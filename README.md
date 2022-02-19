@@ -1,6 +1,6 @@
 # Hi I am Sediqullah Badakhsh
 
-I'm a Full stack web developer. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and Ruby on Rails. in 2022 I had the chance to become one of Microverse Student and enjoy Coding.
+I'm a Full stack web developer student at Microverse. I enjoy working with JavaScript. in 2022 I had the chance to become one of Microverse Student and enjoy Coding.
 
 ## I am availble at:
 - Learning at Microverse
