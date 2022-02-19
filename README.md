@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @sediqullahbadakhsh
-- 👀 I’m interested in learning and coding
-- 🌱 I’m currently learning JavaScript web Developing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+"Full-Stack Software Developer, love music and code. Stack: JavaScript, Ruby, Rails and React. Open to new opportunities."
 
 <!---
 sediqullahbadakhsh/sediqullahbadakhsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
