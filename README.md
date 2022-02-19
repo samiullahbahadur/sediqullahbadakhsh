@@ -1,6 +1,20 @@
-"Full-Stack Software Developer, love music and code. Stack: JavaScript, Ruby, Rails and React. Open to new opportunities."
+# Hi I am Sediqullah Badakhsh
 
-<!---
-sediqullahbadakhsh/sediqullahbadakhsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Full stack web developer. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and Ruby on Rails. in 2022 I had the chance to become one of Microverse Student and enjoy Coding.
+
+## I am availble at:
+- Learning at Microverse
+- Solving challenges at [HackerRank](https://www.hackerrank.com/sediqullah_bada1) and [freecodecamp]()
+- Sharing Updates on [linkedIn](https://www.linkedin.com/in/sediqullah-badakhsh-999053a8/) and [twitter](https://twitter.com/sediqullah6)
+
+## Visitors counts
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sediqullahbadakhsh/count.svg" />
+</p>
+
+## My status So far
+
+![Sediqullah Badakhsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sediqullahbadakhsh&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sediqullahbadakhsh&langs_count=8)
+
